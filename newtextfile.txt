@@ -2,3 +2,10 @@ How to create a file in the new repo.
 first click on the create file on the top right corner and create a file which you want give extension accordingly which file you want to create by swrolling down
 in the commit new file(title-create new file giving extension here to the file name) for ex. for text file .txt, for python file .py for rmarkdown file .rmd etc.
 Then after finished all input which you want to add in your file save by clicking on commit new file (in green box) to save your file
+##
+How to create a new branch in the main branch of the repository?
+first click on the branch on the center top.
+give a name to your branch.
+create a file in the branch as stated earier in the child branch.
+ pull the request make changes as you want once everything is ok make confirm that you are in the child branch  pull request save it and then merge it with the main branch 
+ so that now you can see the file you created in the child branch is now appear in the main branch too after merging it with main branch.
