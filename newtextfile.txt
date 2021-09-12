@@ -1,0 +1,4 @@
+How to create a file in the new repo.
+first click on the create file on the top right corner and create a file which you want give extension accordingly which file you want to create by swrolling down
+in the commit new file(title-create new file giving extension here to the file name) for ex. for text file .txt, for python file .py for rmarkdown file .rmd etc.
+Then after finished all input which you want to add in your file save by clicking on commit new file (in green box) to save your file
